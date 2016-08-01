@@ -18,3 +18,4 @@ redis:
     image: redis
 beanstalkd:
     build: beanstalkd
+
